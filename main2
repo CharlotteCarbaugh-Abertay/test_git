@@ -1,0 +1,7 @@
+#include <iostream>
+int main2()
+{
+cout<< "Hello earth";
+
+return;
+}
